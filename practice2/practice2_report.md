@@ -1,4 +1,4 @@
-<img width="417" alt="2 3" src="https://github.com/KachmaZ/2023_2024-application_containerization_and_orchestration-k4112c-kachmazov_a_a/assets/59313334/c05099d7-ea1b-49c3-8570-caaade5f5be8">University: [ITMO University](https://itmo.ru/ru/)  
+University: [ITMO University](https://itmo.ru/ru/)  
 Faculty: [FICT](https://fict.itmo.ru)  
 Course: [Introduction to distributed technologies](https://github.com/itmo-ict-faculty/introduction-to-distributed-technologies)  
 Year: 2023/2024  
